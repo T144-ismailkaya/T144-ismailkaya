@@ -7,7 +7,7 @@ Always excited to learn new things and contribute to projects!
 
 ## 🛠 Technologies & Tools I Work With:
 
-- **Java** 🟦
+- **Java** 💻
 - **Selenium WebDriver** 🌐
 - **Selenium IDE** 🛠
 - **Selenium Grid** ⚙️
