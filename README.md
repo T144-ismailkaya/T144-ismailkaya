@@ -1,30 +1,30 @@
 # Hi 👋, I'm İsmail Kaya
 
-🔭 *T144 - Software QA Engineer | 16 Years Old*
+🔭 **T144 - Software QA Engineer | 16 Years Old**
 
-🚀 I'm passionate about *Java, **Selenium, and other **Automation Testing Tools*.
+🚀 I'm passionate about ***Java**, ***Selenium**, and other ***Automation Testing Tools***.
 Always excited to learn new things and contribute to projects!
 
 ## 🛠 Technologies & Tools I Work With:
 
-- *Java* 🟦
-- *Selenium WebDriver* 🌐
-- *Selenium IDE* 🛠
-- *Selenium Grid* ⚙️
-- *TestNG* 🔧
-- *Cucumber* 🥒
-- *JUnit* 📑
-- *Jenkins* 🔄
-- *GitHub* 🐙
+- **Java** 🟦
+- **Selenium WebDriver** 🌐
+- **Selenium IDE** 🛠
+- **Selenium Grid** ⚙️
+- **TestNG** 🔧
+- **Cucumber** 🥒
+- **JUnit** 📑
+- **Jenkins** 🔄
+- **GitHub** 🐙
 
 ## 🌱 Currently Learning:
-- *Advanced Java Concepts*
-- *Building CI/CD Pipelines with Jenkins*
-- *Docker for Selenium Grid*
+- **Advanced Java Concepts**
+- **Building CI/CD Pipelines with Jenkins**
+- **Docker for Selenium Grid**
 
 ## 🏆 Goals for 2024:
 - Contribute to Open Source Projects
-- Build a full testing framework using *Java, **TestNG, **Cucumber, and **Jenkins*
+- Build a full testing framework using **Java**, **TestNG**, **Cucumber**, and **Jenkins**
 - Learn *API Testing* with Postman and RestAssured
 
 ## 📬 How to Reach Me:
@@ -42,8 +42,8 @@ Always excited to learn new things and contribute to projects!
 ###
 
 ## 💼 Projects:
-- *Java Automation Testing Project* using Selenium WebDriver, TestNG, and Jenkins.
-- *CI/CD Pipeline Project* using Jenkins to automate test executions.
+- ***Java Automation Testing Project* using Selenium WebDriver, TestNG, and Jenkins.**
+- ***CI/CD Pipeline Project* using Jenkins to automate test executions.**
 
 ## 🔧 Technologies & Tools:
 <div>
