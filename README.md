@@ -68,4 +68,4 @@ Always excited to learn new things and contribute to projects!
 </div>
   
   ## 🌟 My contributions:
-![Snake animation](https://raw.githubusercontent.com/T144-ismailkaya/T144-ismailkaya/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/T144-ismailkaya/T144-ismailkaya/output/github-contribution-grid-snake.svg)
