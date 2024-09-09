@@ -2,7 +2,7 @@
 
 🔭 **T144 - Software QA Engineer | 16 Years Old**
 
-🚀 I'm passionate about ***Java**, ***Selenium**, and other ***Automation Testing Tools***.
+🚀 I'm passionate about **Java**, **Selenium**, and other **Automation Testing Tools**.
 Always excited to learn new things and contribute to projects!
 
 ## 🛠 Technologies & Tools I Work With:
