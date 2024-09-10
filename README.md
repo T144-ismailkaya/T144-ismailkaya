@@ -28,7 +28,6 @@ Always excited to learn new things and contribute to projects!
 - Learn *API Testing* with Postman and RestAssured
 
 ## 📬 How to Reach Me:
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ismail-kaya2534/)
 
 ## 📊 GitHub Stats:
