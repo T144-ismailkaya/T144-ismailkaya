@@ -1,6 +1,6 @@
 # Hi 👋, I'm İsmail Kaya
 
-🔭 **T144 - Software QA Engineer | 16 Years Old**
+🔭 **T144 - Software QA Engineer | 17 Years Old**
 
 🚀 I'm passionate about **Java**, **Selenium**, and other **Automation Testing Tools**.
 Always excited to learn new things and contribute to projects!
